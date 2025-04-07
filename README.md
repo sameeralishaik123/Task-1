@@ -5,6 +5,7 @@ A superstore is a very large supermarket, often selling household goods, clothes
 
 ## process
 1)I uploaded the SampleSuperstore.csv file in jupyter notebook
+
 2)Then started changes 
 
 ## Project Structure
