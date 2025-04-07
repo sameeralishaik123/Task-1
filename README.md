@@ -52,5 +52,8 @@ Use the cleaned dataset (cleaned_sample_superstore.csv) for your analysis.
 
 ## Requirements
 Python3.12 or lattest version
+
 python library Pandas
+
 Jupyter Notebook
+
