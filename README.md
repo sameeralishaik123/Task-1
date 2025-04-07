@@ -30,15 +30,15 @@ Converting data types for consistency (e.g., postal codes to strings).
 4)Exporting Cleaned Data: The cleaned dataset is saved as a new CSV file (cleaned_sample_superstore.csv).
 
 ## Key Steps
-Handling Missing Values: The dataset was checked for missing values, and none were found. A forward-fill method was applied as a precaution.
+1)Handling Missing Values: The dataset was checked for missing values, and none were found. A forward-fill method was applied as a precaution.
 
-Removing Duplicates: Duplicate rows were identified and removed to ensure data integrity.
+2)Removing Duplicates: Duplicate rows were identified and removed to ensure data integrity.
 
-Standardization: Text columns like City, State, and Category were standardized to lowercase for consistency.
+3)Standardization: Text columns like City, State, and Category were standardized to lowercase for consistency.
 
-Column Name Cleaning: Column names were cleaned to follow a consistent format (e.g., Ship Mode became ship_mode).
+4)Column Name Cleaning: Column names were cleaned to follow a consistent format (e.g., Ship Mode became ship_mode).
 
-Data Type Conversion: Columns like Postal Code were converted to strings, and numeric columns were ensured to have the correct data types.
+5)Data Type Conversion: Columns like Postal Code were converted to strings, and numeric columns were ensured to have the correct data types.
 
 ## Output
 The cleaned dataset (cleaned_sample_superstore.csv) is ready for further analysis or visualization.
